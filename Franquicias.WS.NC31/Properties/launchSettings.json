@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Franquicias.WS.NC31": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
